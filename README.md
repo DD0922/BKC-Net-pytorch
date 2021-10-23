@@ -7,4 +7,4 @@ branch, thus accomodating to various degrees of enhancement caused by task-indep
 2) The bi-knowledge contrastive learning integrates two kinds of knowledge and contrasts both to discover more subtle differences among classes.
 
 
-<p align="center"><img width="100%" src="fig/frame10.png" /></p>
+<p align="center"><img width="100%" src="frame11.png" /></p>
