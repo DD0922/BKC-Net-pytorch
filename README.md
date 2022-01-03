@@ -3,7 +3,11 @@
 **The codes will be published gradually and completely open after the paper is accepted!**
 
 Renal tumor diagnosis on abdominal enhanced CT volumes is one of the most significant tasks in kidney disease diagnosis. It helps clinicians decide whether to perform the surgery (subtype classification), perform radical operations or minimally invasive treatment (grade classification).
-However, inherent challenges greatly limit the performance of the model: **(1)** Tumor appearance difference caused by non-tumor factors. **(2)** Small inter-class difference and large intra-class variations. 
+However, inherent challenges greatly limit the performance of the model: 
+
+**(1)** Tumor appearance difference caused by non-tumor factors. 
+
+**(2)** Small inter-class difference and large intra-class variations. 
 
 In this paper, we propose a novel diagnosis framework for renal tumors, Bi-knowledge Contrastive Network (BKC-Net), which has two innovations:
 
