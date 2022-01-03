@@ -14,7 +14,7 @@ In this paper, we propose a novel diagnosis framework for renal tumors, Bi-knowl
 Experiments demonstrate that our BKC-Net has the best performance of both tasks. Results reveal that our framework has great potential for renal tumor diagnosis in clinical use.
 
 
-<p align="center"><img width="100%" src="fig/frame11.png" /></p>
+<p align="center"><img width="100%" src="fig/frame10.png" /></p>
 
 ## Official implementation
 * pytorch
